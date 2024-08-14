@@ -6,9 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# later-upload
+# runs/
+# models/
+
 # Distribution / packaging
-#results/
-dataset1/
+
 .Python
 build/
 develop-eggs/
